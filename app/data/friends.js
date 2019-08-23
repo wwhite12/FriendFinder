@@ -1,5 +1,5 @@
 const friendsArr = [{
-    name: "friendOne",
+    name: "Will",
     photo: "#",
     scores: [
         5,
@@ -14,7 +14,7 @@ const friendsArr = [{
         3
     ]
 
-},
-{
-    name
-}]
+}
+]
+
+module.exports = friendsArr;
